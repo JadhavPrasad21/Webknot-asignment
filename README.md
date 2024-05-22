@@ -1,8 +1,15 @@
-# React + Vite
+# 📖 Webknot Technologies Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Live Preview
+ Visit [Wines.]([https://weatherio-pj.netlify.app/](https://prasads-webknot-assignment.netlify.app/))
+# App Overview
+Light Theme
+![Light theme ](https://github.com/JadhavPrasad21/Weatherio-Forecasting-PJ/assets/86917788/f1ba01a8-0fb2-43ae-aa66-d3cddd62a691)
 
-Currently, two official plugins are available:
+Dark Theme
+![Dark Theme](https://github.com/JadhavPrasad21/Weatherio-Forecasting-PJ/assets/86917788/7aa16eea-41a9-45d4-bf98-91cf1fe61b20)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# TechStacks Used
+- React
+- Axios
+- Sample API
