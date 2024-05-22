@@ -1,7 +1,7 @@
 # 📖 Webknot Technologies Assignment
 
 # Live Preview
- Visit [Wines.]([https://weatherio-pj.netlify.app/](https://prasads-webknot-assignment.netlify.app/))
+ Visit ([Live here.](https://prasads-webknot-assignment.netlify.app/))
 # App Overview
 Light Theme
 ![Light theme ](https://github.com/JadhavPrasad21/Weatherio-Forecasting-PJ/assets/86917788/f1ba01a8-0fb2-43ae-aa66-d3cddd62a691)
